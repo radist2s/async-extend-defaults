@@ -1,0 +1,26 @@
+{
+  "name": "async-extend-defaults",
+  "version": "0.0.1",
+  "description": "Async deep extend and defaults functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radist2s/async-extend-defaults.git"
+  },
+  "keywords": [
+    "async",
+    "extend",
+    "defaults",
+    "object"
+  ],
+  "readmeFilename": "README.md",
+  "author": "Alex Batalov",
+  "license": "MIT",
+  "dependencies": {
+    "async": ">=0.1.21",
+    "async-each-object": ">=0.0.2"
+  }
+}
